@@ -1,0 +1,10 @@
+name, producer, country, salesPerDay, price, quality
+Brusher, Rock, Germany, 40, 45.0, BAD
+name, producer, country, salesPerDay, price, quality, stiffness, convienience
+Brusher, Rock, Poland, 10, 30.0, BAD, light, COMFORTABLE
+name, producer, country, salesPerDay, price, quality, size, material, color
+Duster, CrystalClean, France, 30, 55.0, GOOD, L, cotton, blue
+name, producer, country, salesPerDay, price, quality, power
+High Pressure Washer, Karcher, Germany, 3, 5000.0, GOOD, 3
+name, producer, country, salesPerDay, price, quality, capacity, appliance
+Detergent, Mr.Clean, Poland, 30, 60.0, GOOD, 1.5, panel
